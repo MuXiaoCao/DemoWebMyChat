@@ -28,5 +28,6 @@ public class AuthenticationController {
 		if (log.isDebugEnabled()) {
 			
 		}
+		return null;
 	}
 }
